@@ -1,2 +1,3 @@
+## 模拟随机轨迹数据生成脚本
 + ScriptForPeriodData.py以一个人一段时间内的完整轨迹为最小粒度制造轨迹数据
 + ScriptForRealtimeData.py以每一时刻所有人的点位为最小粒度生成数据，可以模拟实时数据不断产生的过程
